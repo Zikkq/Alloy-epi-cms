@@ -1,0 +1,194 @@
+2023-01-23 23:33:47.694 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:33:48.096 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:33:48.107 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:33:51.113 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:35:09.315 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:35:24.185 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:35:24.200 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:35:27.210 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:36:39.707 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:36:54.183 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:36:54.197 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:36:57.214 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:37:54.821 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:38:09.300 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:38:09.313 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:38:12.330 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:45:33.472 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:45:33.799 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:45:33.809 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:45:36.819 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)]
+2023-01-23 23:50:07.065 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:50:22.021 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:50:22.031 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:50:25.043 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:51:25.965 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:51:41.269 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:51:41.284 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:51:44.305 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:52:23.107 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:52:38.041 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:52:38.049 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:52:41.057 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)]
+2023-01-23 23:57:53.451 +01:00 [INF] Running create-cms-database command.
+2023-01-23 23:58:07.874 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:58:07.888 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-23 23:58:10.906 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:04:17.925 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:04:32.605 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:04:32.618 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:04:35.630 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:07:22.015 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:07:36.614 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:07:36.627 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:07:39.636 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:08:52.805 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:09:07.792 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 00:09:07.805 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 00:09:10.817 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 00:09:54.515 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:10:09.625 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:10:09.639 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:10:12.652 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:19:00.757 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:19:15.723 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:19:15.736 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:19:18.747 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:20:27.887 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:20:42.973 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:20:42.987 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:20:46.010 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:23:23.715 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:23:38.760 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:23:38.774 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:23:41.784 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:30:35.959 +01:00 [INF] Running create-cms-database command.
+2023-01-24 00:30:50.996 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:30:51.011 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 00:30:54.020 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:45:31.533 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:45:45.981 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:45:45.992 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:45:49.006 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:47:49.243 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:48:03.735 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:48:03.750 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:48:06.757 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:49:37.715 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:49:52.227 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:49:52.240 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:49:55.248 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:51:15.558 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:51:30.469 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 01:51:30.477 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 01:51:33.495 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 25 - Connection string is not valid)]
+2023-01-24 01:52:28.672 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:52:43.183 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:52:43.198 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:52:46.206 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:57:54.669 +01:00 [INF] Running create-cms-database command.
+2023-01-24 01:58:09.166 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:58:09.180 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 01:58:12.197 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:00:07.451 +01:00 [INF] Running create-cms-database command.
+2023-01-24 02:00:21.884 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:00:21.899 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:00:24.914 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:02:39.345 +01:00 [INF] Running create-cms-database command.
+2023-01-24 02:02:53.817 +01:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:02:53.832 +01:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:02:56.853 +01:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)]
+2023-01-24 02:09:37.792 +01:00 [INF] Running create-cms-database command.
+2023-01-24 02:09:39.394 +01:00 [INF] Entity Framework Core 6.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2023-01-24 02:09:39.599 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2023-01-24 02:09:39.609 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [IsApproved] bit NOT NULL,
+    [IsLockedOut] bit NOT NULL,
+    [Comment] nvarchar(max) NULL,
+    [CreationDate] datetime2 NOT NULL,
+    [LastLoginDate] datetime2 NULL,
+    [LastLockoutDate] datetime2 NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2023-01-24 02:09:39.616 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2023-01-24 02:09:39.622 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-01-24 02:09:39.627 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(128) NOT NULL,
+    [ProviderKey] nvarchar(128) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-01-24 02:09:39.633 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-01-24 02:09:39.639 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(128) NOT NULL,
+    [Name] nvarchar(128) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-01-24 02:09:39.644 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2023-01-24 02:09:39.649 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2023-01-24 02:09:39.654 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2023-01-24 02:09:39.658 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2023-01-24 02:09:39.663 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2023-01-24 02:09:39.667 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2023-01-24 02:09:39.672 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2023-01-24 02:09:39.847 +01:00 [INF] create-cms-database has completed.
