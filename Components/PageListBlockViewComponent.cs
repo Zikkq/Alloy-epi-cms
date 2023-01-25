@@ -1,11 +1,11 @@
-using alloy_docker.Business;
-using alloy_docker.Models.Blocks;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Business;
+using AlloyDocker.Models.Blocks;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.Filters;
 using EPiServer.Web.Mvc;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Components;
+namespace AlloyDocker.Components;
 
 public class PageListBlockViewComponent : BlockComponent<PageListBlock>
 {

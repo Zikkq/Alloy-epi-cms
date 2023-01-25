@@ -1,10 +1,10 @@
-using alloy_docker.Models.Pages;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Models.Pages;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.Web.Routing;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace alloy_docker.Business;
+namespace AlloyDocker.Business;
 
 /// <summary>
 /// Intercepts actions with view models of type IPageViewModel and populates the view models

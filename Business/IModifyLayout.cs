@@ -1,6 +1,6 @@
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Models.ViewModels;
 
-namespace alloy_docker.Business;
+namespace AlloyDocker.Business;
 
 /// <summary>
 /// Defines a method which may be invoked by PageContextActionFilter allowing controllers

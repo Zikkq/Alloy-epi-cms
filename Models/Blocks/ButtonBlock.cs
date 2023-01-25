@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace alloy_docker.Models.Blocks;
+namespace AlloyDocker.Models.Blocks;
 
 /// <summary>
 /// Used to insert a link which is styled as a button

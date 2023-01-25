@@ -1,4 +1,4 @@
-namespace alloy_docker.Models;
+namespace AlloyDocker.Models;
 
 /// <summary>
 /// Attribute used for site content types to set default attribute values

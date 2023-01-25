@@ -1,11 +1,11 @@
 using System.Globalization;
-using alloy_docker.Models.Pages;
+using AlloyDocker.Models.Pages;
 using EPiServer.Filters;
 using EPiServer.ServiceLocation;
 using EPiServer.Shell.Configuration;
 using EPiServer.Web;
 
-namespace alloy_docker.Business;
+namespace AlloyDocker.Business;
 
 [ServiceConfiguration(Lifecycle = ServiceInstanceScope.Singleton)]
 public class ContentLocator

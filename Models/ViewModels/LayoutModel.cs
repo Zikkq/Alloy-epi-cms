@@ -1,8 +1,8 @@
-using alloy_docker.Models.Blocks;
+using AlloyDocker.Models.Blocks;
 using EPiServer.SpecializedProperties;
 using Microsoft.AspNetCore.Html;
 
-namespace alloy_docker.Models.ViewModels;
+namespace AlloyDocker.Models.ViewModels;
 
 public class LayoutModel
 {

@@ -1,7 +1,7 @@
 using EPiServer.Shell;
-using alloy_docker.Models.Pages;
+using AlloyDocker.Models.Pages;
 
-namespace alloy_docker.Business.UIDescriptors;
+namespace AlloyDocker.Business.UIDescriptors;
 
 /// <summary>
 /// Describes how the UI should appear for <see cref="ContainerPage"/> content.

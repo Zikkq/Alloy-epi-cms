@@ -1,13 +1,13 @@
-using alloy_docker.Helpers;
-using alloy_docker.Models.Blocks;
-using alloy_docker.Models.Pages;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Helpers;
+using AlloyDocker.Models.Blocks;
+using AlloyDocker.Models.Pages;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Components;
+namespace AlloyDocker.Components;
 
 public class ContactBlockViewComponent : BlockComponent<ContactBlock>
 {

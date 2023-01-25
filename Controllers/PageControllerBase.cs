@@ -1,13 +1,13 @@
-using alloy_docker.Business;
-using alloy_docker.Models.Pages;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Business;
+using AlloyDocker.Models.Pages;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.ServiceLocation;
 using EPiServer.Shell.Security;
 using EPiServer.Web.Mvc;
 using EPiServer.Web.Routing;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Controllers;
+namespace AlloyDocker.Controllers;
 
 /// <summary>
 /// All controllers that renders pages should inherit from this class so that we can

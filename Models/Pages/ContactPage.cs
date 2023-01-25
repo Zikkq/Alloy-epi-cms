@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
-using alloy_docker.Business.Rendering;
+using AlloyDocker.Business.Rendering;
 using EPiServer.Web;
 
-namespace alloy_docker.Models.Pages;
+namespace AlloyDocker.Models.Pages;
 
 /// <summary>
 /// Represents contact details for a contact person

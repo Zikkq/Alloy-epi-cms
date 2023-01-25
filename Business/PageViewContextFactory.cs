@@ -1,5 +1,5 @@
-using alloy_docker.Models.Pages;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Models.Pages;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.Data;
 using EPiServer.ServiceLocation;
 using EPiServer.Web;
@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 
-namespace alloy_docker.Business;
+namespace AlloyDocker.Business;
 
 [ServiceConfiguration]
 public class PageViewContextFactory

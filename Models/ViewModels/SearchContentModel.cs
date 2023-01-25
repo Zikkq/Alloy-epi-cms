@@ -1,6 +1,6 @@
-using alloy_docker.Models.Pages;
+using AlloyDocker.Models.Pages;
 
-namespace alloy_docker.Models.ViewModels;
+namespace AlloyDocker.Models.ViewModels;
 
 public class SearchContentModel : PageViewModel<SearchPage>
 {

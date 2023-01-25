@@ -1,6 +1,6 @@
 using System.Text;
 using System.Text.Encodings.Web;
-using alloy_docker.Business;
+using AlloyDocker.Business;
 using EPiServer.ServiceLocation;
 using EPiServer.Web.Mvc.Html;
 using EPiServer.Web.Routing;
@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace alloy_docker.Helpers;
+namespace AlloyDocker.Helpers;
 
 public static class HtmlHelpers
 {

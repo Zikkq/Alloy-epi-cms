@@ -1,9 +1,9 @@
 using EPiServer.Core.Html.StringParsing;
 using EPiServer.Web.Mvc.Html;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using static alloy_docker.Globals;
+using static AlloyDocker.Globals;
 
-namespace alloy_docker.Business.Rendering;
+namespace AlloyDocker.Business.Rendering;
 
 /// <summary>
 /// Extends the default <see cref="ContentAreaRenderer"/> to apply custom CSS classes to each <see cref="ContentFragment"/>.

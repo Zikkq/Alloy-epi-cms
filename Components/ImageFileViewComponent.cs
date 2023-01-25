@@ -1,10 +1,10 @@
-using alloy_docker.Models.Media;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Models.Media;
+using AlloyDocker.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer.Web.Routing;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Components;
+namespace AlloyDocker.Components;
 
 /// <summary>
 /// Controller for the image file.

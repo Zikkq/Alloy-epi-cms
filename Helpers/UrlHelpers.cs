@@ -2,7 +2,7 @@ using EPiServer.ServiceLocation;
 using EPiServer.Web.Routing;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Helpers;
+namespace AlloyDocker.Helpers;
 
 public static class UrlHelpers
 {

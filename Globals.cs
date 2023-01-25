@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace alloy_docker;
+namespace AlloyDocker;
 
 public class Globals
 {

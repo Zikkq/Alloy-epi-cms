@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using alloy_docker.Models.Blocks;
+using AlloyDocker.Models.Blocks;
 
-namespace alloy_docker.Models.Pages;
+namespace AlloyDocker.Models.Pages;
 
 /// <summary>
 /// Used to provide on-site search

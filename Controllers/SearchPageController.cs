@@ -1,8 +1,8 @@
-using alloy_docker.Models.Pages;
-using alloy_docker.Models.ViewModels;
+using AlloyDocker.Models.Pages;
+using AlloyDocker.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace alloy_docker.Controllers;
+namespace AlloyDocker.Controllers;
 
 public class SearchPageController : PageControllerBase<SearchPage>
 {

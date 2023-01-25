@@ -1,4 +1,4 @@
-namespace alloy_docker.Models.ViewModels;
+namespace AlloyDocker.Models.ViewModels;
 
 /// <summary>
 /// View model for the image file

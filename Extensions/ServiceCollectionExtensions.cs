@@ -1,11 +1,11 @@
-using alloy_docker.Business;
-using alloy_docker.Business.Channels;
-using alloy_docker.Business.Rendering;
+using AlloyDocker.Business;
+using AlloyDocker.Business.Channels;
+using AlloyDocker.Business.Rendering;
 using EPiServer.Web;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 
-namespace alloy_docker.Extensions;
+namespace AlloyDocker.Extensions;
 
 public static class ServiceCollectionExtensions
 {

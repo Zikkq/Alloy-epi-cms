@@ -1,6 +1,6 @@
-using alloy_docker.Models.Blocks;
+using AlloyDocker.Models.Blocks;
 
-namespace alloy_docker.Models.ViewModels;
+namespace AlloyDocker.Models.ViewModels;
 
 public class PageListModel
 {

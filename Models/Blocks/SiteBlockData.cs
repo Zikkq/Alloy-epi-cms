@@ -1,4 +1,4 @@
-namespace alloy_docker.Models.Blocks;
+namespace AlloyDocker.Models.Blocks;
 
 /// <summary>
 /// Base class for all block types on the site

@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using EPiServer.Web;
 
-namespace alloy_docker.Models.Blocks;
+namespace AlloyDocker.Models.Blocks;
 
 /// <summary>
 /// Used to present contact information with a call-to-action link

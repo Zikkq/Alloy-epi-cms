@@ -1,6 +1,6 @@
-using alloy_docker.Business.Rendering;
+using AlloyDocker.Business.Rendering;
 
-namespace alloy_docker.Models.Pages;
+namespace AlloyDocker.Models.Pages;
 
 /// <summary>
 /// Used to logically group pages in the page tree
