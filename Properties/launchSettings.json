@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "alloy-docker": {
+    "AlloyDocker": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5000/",
