@@ -11,10 +11,7 @@ public class Startup
 {
     private readonly IWebHostEnvironment _webHostingEnvironment;
 
-    public Startup(IWebHostEnvironment webHostingEnvironment)
-    {
-        _webHostingEnvironment = webHostingEnvironment;
-    }
+    public Startup(IWebHostEnvironment webHostingEnvironment) => _webHostingEnvironment = webHostingEnvironment;
 
     public void ConfigureServices(IServiceCollection services)
     {
